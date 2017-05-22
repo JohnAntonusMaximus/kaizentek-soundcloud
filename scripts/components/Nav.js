@@ -207,7 +207,7 @@ class Nav extends Component {
                 dispatch={dispatch}
                 route={{ path: ['songs'] }}
               >
-                SoundRedux
+                KaizenTek SoundCloud
               </Link>
             </div>
             {this.renderStreamLink()}
